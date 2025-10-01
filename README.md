@@ -1,6 +1,6 @@
 - 👋 Hi I’m Shannon,
 - an early career researcher having just passed her PhD this year!
-- 
+  
 - 🛰️ My research foxus is in the application of unsupervised machine learning techniques on magentospheric plasma (electron) populations, with a focus on the Earth's radiation belts.
 - I am also really interested in magnetospheric interactions (both at Earth and other Planets) and their influence on plasma dynamics.
 - I'm highly proficient in Python, and am eager to share my code and resources in an open and accessible way!
